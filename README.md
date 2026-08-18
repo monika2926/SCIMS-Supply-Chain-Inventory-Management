@@ -1,7 +1,3 @@
-# SCIMS-Supply-Chain-Inventory-Management
-Supply Chain &amp; Inventory Management System using SQL, MySQL and Power BI
-# SCIMS – Supply Chain & Inventory Management System
-
 ## 📌 Project Overview
 
 The Supply Chain & Inventory Management System (SCIMS) is a database-driven analytics project designed to manage and analyze supply chain, inventory, warehouse, supplier, purchase order, and shipment operations.
@@ -81,24 +77,32 @@ These components demonstrate practical SQL concepts including database design, j
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Power BI Dashboards
 
-The Power BI dashboard provides interactive analysis of supply chain and inventory operations.
+The SCIMS Power BI report contains 7 interactive dashboards designed to analyze different areas of supply chain and inventory operations.
 
-### Key Analysis Areas
+### Dashboard Pages
 
-- Inventory Overview
-- Stock Availability
-- Low Stock & Reorder Analysis
-- Warehouse Capacity
-- Supplier Performance
-- Purchase Orders
-- Shipment & Logistics
-- Business Performance
+1. **Executive Dashboard**
+   - Provides a high-level overview of overall business and supply chain performance.
 
-The dashboards help convert raw operational data into visual insights for faster and better decision-making.
+2. **Purchase Order Analysis**
+   - Analyzes purchase orders, order status, purchasing activity, and related metrics.
 
----
+3. **Inventory Analysis**
+   - Analyzes stock availability, inventory levels, low-stock situations, and reorder requirements.
+
+4. **Warehouse Analysis**
+   - Analyzes warehouse capacity, utilization, inventory, and warehouse performance.
+
+5. **Store Analysis**
+   - Analyzes store orders, demand, and store-level performance.
+
+6. **Shipment & Transfer Analysis**
+   - Analyzes shipments, stock transfers, and logistics-related activities.
+
+7. **Supplier Insights & Performance**
+   - Analyzes supplier performance, orders, delivery trends, and supplier-related metrics.---
 
 ## 💡 Business Insights
 
